@@ -15,9 +15,8 @@
     },
     "author": "zhanxp <zhanxp@me.com>",
     "license": "ISC",
-    "bugs": {
-    },
+    "bugs": {},
     "dependencies": {
-        
+        "mongodb": "^3.2.3"
     }
 }
